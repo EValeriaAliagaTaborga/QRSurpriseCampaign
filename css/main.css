@@ -4,4 +4,9 @@ body {
 
 .container {
 	background-color: yellow;
+	width: 70%;
+}
+
+.ti {
+	font-size: 80px;
 }
